@@ -1,4 +1,6 @@
 # About me
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 - 👋 Hi, I’m @EliasJHL
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
