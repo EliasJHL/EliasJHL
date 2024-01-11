@@ -11,6 +11,7 @@
 # Github
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasjhl&" alt="eliasjhl" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasjhl&show_icons=true&theme=radical" alt="eliasjhl" /></p>
+<img src="https://profile-counter.glitch.me/{eliasjhl}/count.svg" alt="eliasjhl :: Visitor's Count" />
 
 # Other
 > [!IMPORTANT]
