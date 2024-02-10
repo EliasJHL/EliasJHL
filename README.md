@@ -1,14 +1,13 @@
 # About me
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 - 👋 Hi, I’m @EliasJHL
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-# Github
+# Github stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasjhl&" alt="eliasjhl" /></p>
 <a href="https://wakatime.com/@018c7ebf-3e46-4d42-bf5c-17c505079e48"><img src="https://wakatime.com/badge/user/018c7ebf-3e46-4d42-bf5c-17c505079e48.svg" alt="Total time coded since Dec 18 2023" /></a>
 
