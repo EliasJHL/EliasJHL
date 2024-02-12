@@ -8,10 +8,14 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+# Projects status
+<p>Portfolio status :</p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/608cf34d-a3b0-45ea-bbcb-2720ce132a52/deploy-status)](https://app.netlify.com/sites/elegant-gnome-63877f/deploys)
+
 # Github stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasjhl&" alt="eliasjhl" /></p>
 <a href="https://wakatime.com/@018c7ebf-3e46-4d42-bf5c-17c505079e48"><img src="https://wakatime.com/badge/user/018c7ebf-3e46-4d42-bf5c-17c505079e48.svg" alt="Total time coded since Dec 18 2023" /></a>
-
 <!---
 EliasJHL/EliasJHL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
