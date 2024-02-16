@@ -11,7 +11,6 @@
 
 # Projects status
 <p>Portfolio status :</p>
-<a href="eliashajjar.fr">my personnal portfolio</a>
   
 # Github stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasjhl&" alt="eliasjhl" /></p>
