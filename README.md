@@ -10,7 +10,8 @@
 - 📫 How to reach me ...
 
 # Projects status
-<p>Portfolio status :</p>
+<h3>Portfolio status :</h3>
+<a>https://eliashajjar.fr</a>
   
 # Github stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasjhl&" alt="eliasjhl" /></p>
