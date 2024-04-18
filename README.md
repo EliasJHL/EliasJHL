@@ -14,7 +14,7 @@
   
 # Github stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasjhl&" alt="eliasjhl" /></p>
-<a href="https://wakatime.com/@018c7ebf-3e46-4d42-bf5c-17c505079e48"><img src="https://wakatime.com/badge/user/018c7ebf-3e46-4d42-bf5c-17c505079e48.svg" alt="Total time coded since Dec 18 2023" /></a>
+<!--<a href="https://wakatime.com/@018c7ebf-3e46-4d42-bf5c-17c505079e48"><img src="https://wakatime.com/badge/user/018c7ebf-3e46-4d42-bf5c-17c505079e48.svg" alt="Total time coded since Dec 18 2023" /></a>--->
 <!---
 EliasJHL/EliasJHL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
