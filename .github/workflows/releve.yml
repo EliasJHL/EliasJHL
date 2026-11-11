@@ -1,0 +1,30 @@
+# Le relevé de contributions en trame (assets/releve*.svg), régénéré chaque jour.
+name: Relevé
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  releve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/releve.mjs ${{ github.repository_owner }}
+      - name: Enregistrer le relevé s'il a changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/releve.svg assets/releve-sombre.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Relevé du jour"
+            git push
+          fi
