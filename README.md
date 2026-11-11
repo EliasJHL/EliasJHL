@@ -22,7 +22,7 @@
 
 ### Now
 
-- Lead developer of [KansoOS](https://github.com/KansoOS), a hardened Android (AOSP) built for neurodivergent autonomy, in a team of 5.
+- Developer on [KansoOS](https://github.com/KansoOS), a hardened Android (AOSP) built for neurodivergent autonomy, in a team of 5.
 - Exchange year in cybersecurity at Jönköping University: penetration testing, forensics and incident response, industrial cybersecurity.
 - Freelance software engineer, building management software for small businesses.
 
